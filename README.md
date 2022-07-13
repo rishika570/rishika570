@@ -4,7 +4,7 @@
  
  
  
- <style="text-align:centre;">Hola 👋 , I am Rishika Singh</style>
+ ### Hola 👋 , I am Rishika Singh
 
 
 - 🔭 I’m currently working on Logic Building and DSA

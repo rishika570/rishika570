@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on Logic Building and DSA
-- 🌱 I’m currently learning JAVA and Problem Solving
+- 🌱 I’m currently learning JAVA,Problem Solving and Web Development
 - 💬 Ask me about JAVA DSA
 - 📫 How to reach me: rishikasingh570@gmail.com
 - 😄 Pronouns: She/her
